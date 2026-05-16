@@ -63,8 +63,3 @@ Simply double-click the index.html file to open it in any modern web browser.
 👨‍💻 Developed By
 Muhammad Sami Sarwar Frontend Developer / Enthusiast
 
-📬 Let's Connect!
-
-💼 LinkedIn: https://www.linkedin.com/in/sami-sarwar-185792336
-
-🐙 GitHub: Follow on GitHub
