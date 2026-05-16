@@ -63,3 +63,5 @@ Simply double-click the index.html file to open it in any modern web browser.
 👨‍💻 Developed By
 Muhammad Sami Sarwar Frontend Developer / Enthusiast
 
+Let's connect on:
+Linkedin: https://www.linkedin.com/in/sami-sarwar-185792336
