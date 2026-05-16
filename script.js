@@ -18,25 +18,12 @@ let currentFilter="all";
 
 
 inputBoxBtn.addEventListener("click",(e)=>{
-    // let resultBoxes=document.createElement("div");
-    // resultBoxes.className="result-boxes";
-    // resultBoxes.innerText=inputBox.value;
-    // console.log(inputBox.value);
-    // results.appendChild(resultBoxes)
+    
 
     if(!checkTask()){
         return;
     }
 
-    // let newBox=document.createElement('div');
-
-    // newBox.innerHTML=`
-    // <div class="result-boxes">
-    //         <p><i class="fa-solid fa-check"></i> ${inputBox.value}</p>
-    //         <div class="del-edit-icon">
-    //             <i class="fa-solid fa-trash" class="end"></i> <i class="fa-regular fa-pen-to-square" class="end"></i>
-    //         </div>
-    // </div>`;
 
 
     // AVOID DUPLICATE VALUES
@@ -174,33 +161,4 @@ inputBox.addEventListener("keydown",(e)=>{
 })
 
 showData();
-
-
-// let a=[];
-// let b="dog";
-// for(let i=1;i<=b.length;i++){
-//     a.push(b)
-// }
-// console.log(a);
-
-
-// let arr = ["Ali","Ahmed","Hamza"];
-
-// arr.forEach((item)=>{
-//     console.log(item);
-// });
-
-// for(let i=0; i<arr.length; i++){
-
-//     let item = arr[i];
-
-//     console.log(item);
-// }
-
-
-let fruits=["mango","apple","Ops"];
-
-console.log(fruits.includes("grapes"));
-
-
 
