@@ -45,7 +45,7 @@ TODO LIST FOLDER/
 Clone the repository:
 
 Bash
-git clone [https://github.com/your-username/task-manager-js.git](https://github.com/your-username/task-manager-js.git)
+git clone [https://github.com/MUHAMMAD-SAMI-SARWAR/task-manager-js.git](https://github.com/MUHAMMAD-SAMI-SARWAR/task-manager-js.git)
 Navigate to the project folder:
 
 Bash
@@ -61,10 +61,10 @@ Simply double-click the index.html file to open it in any modern web browser.
 [ ] Due dates and reminder notifications.
 
 👨‍💻 Developed By
-Your Name Frontend Developer / Enthusiast
+Muhammad Sami Sarwar Frontend Developer / Enthusiast
 
 📬 Let's Connect!
 
 💼 LinkedIn: https://www.linkedin.com/in/sami-sarwar-185792336
 
-🐙 GitHub: @MUHAMMAD-SAMI-SARWAR
+🐙 GitHub: Follow on GitHub
