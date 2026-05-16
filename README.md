@@ -36,3 +36,35 @@ TODO LIST FOLDER/
 ├── index.html      # Application structure & layout
 ├── script.js       # App logic, event listeners & localStorage
 └── style.css       # Styling, animations & Dark Mode themes
+📸 Screenshots
+💡 Tip: Once you upload your project to GitHub, take a screenshot, upload it to your repo, and replace the placeholder link below to show off your UI!
+
+![App Screenshot](your-screenshot-link-here.png)
+
+🛠️ How to Run This Project Locally
+Clone the repository:
+
+Bash
+git clone [https://github.com/your-username/task-manager-js.git](https://github.com/your-username/task-manager-js.git)
+Navigate to the project folder:
+
+Bash
+cd task-manager-js
+Open the App:
+Simply double-click the index.html file to open it in any modern web browser.
+
+💡 Future Improvements
+[ ] Drag and drop task reordering.
+
+[ ] Task categories/tags (e.g., Work, Personal, Shopping).
+
+[ ] Due dates and reminder notifications.
+
+👨‍💻 Developed By
+Your Name Frontend Developer / Enthusiast
+
+📬 Let's Connect!
+
+💼 LinkedIn: https://www.linkedin.com/in/sami-sarwar-185792336
+
+🐙 GitHub: @MUHAMMAD-SAMI-SARWAR
